@@ -1,0 +1,7 @@
+sourceTaxonId	sourceTaxonName	interactionTypeId	interactionTypeName	targetTaxonId	targetTaxonName	localityId	localityName	decimalLatitude	decimalLongitude	observationDateTime	referenceDoi	referenceCitation
+EOL:1019159	Bufo americanus	RO:0002439	preys on	EOL:1052017	Agelaius phoeniceus							Cook, W. E. Amphibians and Reptiles: Predators and Prey. Amphibians and Birds. Smithsonian Herpetological Information Service: 1-15.
+EOL:1045997	Athene cunicularia	RO:0002439	preys on	EOL:1018893	Ambystoma tigrinum							Cook, W. E. Amphibians and Reptiles: Predators and Prey. Amphibians and Birds. Smithsonian Herpetological Information Service: 1-15.
+EOL:1045997	Athene cunicularia	RO:0002439	preys on	EOL:1019093	Rana pipiens							Cook, W. E. Amphibians and Reptiles: Predators and Prey. Amphibians and Birds. Smithsonian Herpetological Information Service: 1-15.
+EOL:1045997	Athene cunicularia	RO:0002439	preys on	EOL:331285	Scaphiopus bombifrons							Cook, W. E. Amphibians and Reptiles: Predators and Prey. Amphibians and Birds. Smithsonian Herpetological Information Service: 1-15.
+EOL:1045997	Athene cunicularia	RO:0002439	preys on	EOL:332453	Scaphiopus couchi							Cook, W. E. Amphibians and Reptiles: Predators and Prey. Amphibians and Birds. Smithsonian Herpetological Information Service: 1-15.
+EOL:1045997	Athene cunicularia	RO:0002439	preys on	EOL:1019161	Scaphiopus intermontanus							Cook, W. E. Amphibians and Reptiles: Predators and Prey. Amphibians and Birds. Smithsonian Herpetological Information Service: 1-15.
